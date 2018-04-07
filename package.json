@@ -1,0 +1,21 @@
+{
+  "name": "butter-garden",
+  "version": "1.0.0",
+  "description": "simple keto blog",
+  "main": "test.js",
+  "scripts": {
+    "dev": "next",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/pagingpaige943/butter-garden"
+  },
+  "author": "Paige Henderson",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
