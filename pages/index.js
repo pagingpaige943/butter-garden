@@ -1,3 +1,4 @@
 import react from 'react'
-export default () => <div> hello world </div>
+import Terminal from 'react-bash'
+export default () => <div> <Terminal /> </div>
 

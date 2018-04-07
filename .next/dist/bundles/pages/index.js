@@ -79,7 +79,10 @@ module.exports =
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("react");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_bash__ = __webpack_require__("react-bash");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_bash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react_bash__);
 var _jsxFileName = '/mnt/c/Users/pagin/Workspace/nefarious-koala/pages/index.js';
+
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
@@ -88,10 +91,17 @@ var _jsxFileName = '/mnt/c/Users/pagin/Workspace/nefarious-koala/pages/index.js'
     {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 2
+        lineNumber: 3
       }
     },
-    ' hello world '
+    ' ',
+    __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_react_bash___default.a, {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 3
+      }
+    }),
+    ' '
   );
 });
 
@@ -109,6 +119,13 @@ module.exports = __webpack_require__("./pages/index.js");
 /***/ (function(module, exports) {
 
 module.exports = require("react");
+
+/***/ }),
+
+/***/ "react-bash":
+/***/ (function(module, exports) {
+
+module.exports = require("react-bash");
 
 /***/ })
 

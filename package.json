@@ -16,6 +16,7 @@
   "dependencies": {
     "next": "^5.1.0",
     "react": "^16.3.1",
+    "react-bash": "^1.6.0",
     "react-dom": "^16.3.1"
   }
 }
